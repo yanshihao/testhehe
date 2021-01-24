@@ -1,0 +1,1 @@
+sudo sh -c ‘. /etc/lsb-release && echo “deb https://mirrors.ustc.edu.cn/ros/ubuntu/ $DISTRIB_CODENAME main” > /etc/apt/sources.list.d/ros-latest.list’
